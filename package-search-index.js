@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"arkanoid"},{"l":"arkanoid.controller"},{"l":"arkanoid.controller.actions"},{"l":"arkanoid.view.events"}]

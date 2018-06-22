@@ -1,0 +1,4 @@
+arkanoid
+arkanoid.controller
+arkanoid.controller.actions
+arkanoid.view.events
